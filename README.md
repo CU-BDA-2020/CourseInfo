@@ -12,7 +12,7 @@ Office hours:  Wednesdays, 2:30pm - 4pm, and by appointment (please avoid Monday
 
 **Teaching Assistant:**  
 David Kent: <dk657@cornell.edu>  
-Office hours: Thursdays, 5:30pm - ???, room TBD (likely in the basement of Comstock Hall)
+Office hours: Thursdays, 5:30pm - 6:30pm, B108 Comstock Hall
 
 **Piazza forum:** [STSCI 4780 on Piazza.com](https://piazza.com/class/k5ihviybtz82lx)  
 (Watch your email for an invitation.)
