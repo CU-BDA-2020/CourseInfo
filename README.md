@@ -122,6 +122,14 @@ This book offers probably the clearest and most thorough modern account of the p
 
 I've put several other useful books on reserve; see the Canvas site for a list.
 
+Finally, I **strongly** recommend the following largely nontechnical book for those particularly interested in conceptual and philosophical issues arising in the foundations of statistics, particularly regarding how probability should be used to quantify uncertainty:
+
+* [Ten Great Ideas about Chance (Princeton University Press)](https://press.princeton.edu/books/hardcover/9780691174167/ten-great-ideas-about-chance) by Persi Diaconis & Brian Skyrms
+* [Amazon.com: Ten Great Ideas about Chance (9780691174167)](https://www.amazon.com/Ten-Great-Ideas-about-Chance/dp/0691174164)
+* Review in *Notices of the AMS*: [Ten Great Ideas about Chance — A Review by Mark Huber](http://dx.doi.org/10.1090/noti1888)
+
+This book grew out of a Stanford undergraduate course of the same name offered by Diaconis and Brian Skyrms, an influential philosopher of science. Although most of the text is nontechnical, many chapters have mathematical appendices, most of them quite accessible, but some a bit challenging.
+
 
 # Lecture plan
 
