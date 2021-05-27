@@ -90,7 +90,7 @@ Note that Piazza permits anonymous posting. The forum is set up so that an anony
 
 ## Academic integrity
 
-Academic integrity expectations for STSCI 4780 (beyond those addressed above in regard to collaboration) are spelled out in a separate document: [Academic integrity expectations for STSCI 4780](./Academic integrity expectations for STSCI 4780.md).
+Academic integrity expectations for STSCI 4780 (beyond those addressed above in regard to collaboration) are spelled out in a separate document: [Academic integrity expectations for STSCI 4780](AcademicIntegrity.md).
 
 ## Textbooks
 
