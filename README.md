@@ -90,7 +90,7 @@ Note that Piazza permits anonymous posting. The forum is set up so that an anony
 
 ## Academic integrity
 
-Academic integrity expectations for STSCI 4780 (beyond those addressed above in regard to collaboration) are spelled out in a separate document: [Academic integrity expectations for STSCI 4780](Academic integrity expectations for STSCI 4780.md).
+Academic integrity expectations for STSCI 4780 (beyond those addressed above in regard to collaboration) are spelled out in a separate document: [Academic integrity expectations for STSCI 4780](./Academic integrity expectations for STSCI 4780.md).
 
 ## Textbooks
 
@@ -204,5 +204,4 @@ For the first few weeks, the labs will operate somewhat separately from the lect
 4|	Feb 14 | Bayesian computation for single-parameter models
 
 As the lectures move beyond fundamental, analytically tractable examples, the labs and lectures will mesh more strongly, with labs implementing computational methods and flexible models covered in lecture.
-
 
